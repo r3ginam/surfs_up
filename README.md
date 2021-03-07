@@ -4,6 +4,8 @@ This project seeks to understand the weather on the Hawaiian island of Oahu. The
 ## Results
 
 The following tables describe the temperature data for June and December.
+
+
 ![](june_temp.png)
 ![](dec_temp.png)
 
